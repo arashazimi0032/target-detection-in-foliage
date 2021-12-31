@@ -1,6 +1,7 @@
 # target-detection-in-foliage
 academic project
 
+![Screenshot](Capture0.jpg)
 ![Screenshot](Capture.jpg)
 
 ## Data
